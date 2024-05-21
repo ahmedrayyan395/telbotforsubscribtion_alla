@@ -1,2 +1,2 @@
-python-telegram-bot --upgrade 
+python-telegram-bot==4.10.0
 os
